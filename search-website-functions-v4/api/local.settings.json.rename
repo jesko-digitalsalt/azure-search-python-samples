@@ -6,7 +6,7 @@
     "FUNCTIONS_WORKER_RUNTIME": "python",
     "SearchApiKey": "YOUR-SEARCH-QUERY-KEY",
     "SearchServiceName": "YOUR-SEARCH-RESOURCE-NAME",
-    "SearchIndexName": "demoindex",
+    "SearchIndexName": "good-books",
     "SearchFacets": "queryLanguage*,id"
   },
   "Host": {
